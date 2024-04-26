@@ -1,0 +1,10 @@
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\obj\Debug\StudentRegistrationApplication1.csproj.AssemblyReference.cache
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\obj\Debug\StudentRegistrationApplication1.Form1.resources
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\obj\Debug\StudentRegistrationApplication1.Properties.Resources.resources
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\obj\Debug\StudentRegistrationApplication1.csproj.GenerateResource.cache
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\obj\Debug\StudentRegistrationApplication1.csproj.CoreCompileInputs.cache
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\bin\Debug\StudentRegistrationApplication1.exe.config
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\bin\Debug\StudentRegistrationApplication1.exe
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\bin\Debug\StudentRegistrationApplication1.pdb
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\obj\Debug\StudentRegistrationApplication1.exe
+C:\Users\STI-ADMIN\Source\Repos\lomiituu\StudentRegistrationApplication1\StudentRegistrationApplication1\obj\Debug\StudentRegistrationApplication1.pdb
